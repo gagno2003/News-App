@@ -1,0 +1,14 @@
+C:\Users\gagni_j1hmy01\source\repos\News App\News App\bin\Debug\News App.exe.config
+C:\Users\gagni_j1hmy01\source\repos\News App\News App\bin\Debug\News App.exe
+C:\Users\gagni_j1hmy01\source\repos\News App\News App\bin\Debug\News App.pdb
+C:\Users\gagni_j1hmy01\source\repos\News App\News App\obj\Debug\News App.csprojAssemblyReference.cache
+C:\Users\gagni_j1hmy01\source\repos\News App\News App\obj\Debug\News_App.NewsApp.resources
+C:\Users\gagni_j1hmy01\source\repos\News App\News App\obj\Debug\News_App.Properties.Resources.resources
+C:\Users\gagni_j1hmy01\source\repos\News App\News App\obj\Debug\News App.csproj.GenerateResource.cache
+C:\Users\gagni_j1hmy01\source\repos\News App\News App\obj\Debug\News App.csproj.CoreCompileInputs.cache
+C:\Users\gagni_j1hmy01\source\repos\News App\News App\obj\Debug\News App.exe
+C:\Users\gagni_j1hmy01\source\repos\News App\News App\obj\Debug\News App.pdb
+C:\Users\gagni_j1hmy01\source\repos\News App\News App\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\gagni_j1hmy01\source\repos\News App\News App\obj\Debug\News App.csproj.CopyComplete
+C:\Users\gagni_j1hmy01\source\repos\News App\News App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gagni_j1hmy01\source\repos\News App\News App\bin\Debug\Newtonsoft.Json.xml
